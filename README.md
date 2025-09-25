@@ -54,3 +54,15 @@ GestureRecognition/
 ├── numberr.py               # 手势识别辅助函数
 ├── requirements.txt         # 依赖库列表
 └── README.md                # 项目说明文档
+
+
+
+
+
+
+
+
+<img width="1275" height="993" alt="879ed5b16b875ddb2116ba8531d7fa5b" src="https://github.com/user-attachments/assets/f0bedf8d-50f6-42a3-b26a-5c4c8e470de7" />
+<img width="1212" height="954" alt="0ad49c5d15b8a50d626f0c1d4889cc47" src="https://github.com/user-attachments/assets/f177930b-f0ae-4cb1-bea5-dfb8d1c30e9b" />
+
+
