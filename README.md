@@ -467,11 +467,9 @@ pyuic5 -x SignRecognition.ui -o SignRecognition_UI.py
 
 ## 📧 联系方式
 
-如有问题或建议，欢迎联系:
-
-- 项目Issues: [GitHub Issues](https://github.com/your-repo/issues)
-- Email: your-email@example.com
-
----
+获取完整代码，欢迎联系:2122384040
 
 ⭐ 如果这个项目对你有帮助，请给一个Star！
+<img width="1260" height="1014" alt="image" src="https://github.com/user-attachments/assets/20e5a62b-c032-4813-bdd9-b874ced22ebc" />
+
+
